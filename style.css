@@ -1,0 +1,30 @@
+h1{
+    background-color: violet;
+    font-weight: 800;
+    font-size: 70px;
+}
+
+table{
+   font-family: cursive;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: violet;
+    width: 100%
+}
+th{
+    font-weight: 800;
+    background-color: violet;
+    color: floralwhite;
+}
+tr{
+    background-color: beige;
+}
+p{
+    font-family: cursive;
+    font-size: 25px
+}
+a{
+    font-family: fantasy;
+    text-decoration: none;
+}
